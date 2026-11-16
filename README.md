@@ -2,7 +2,7 @@
 
 **An enterprise-oriented portfolio project for operational request intake, workflow automation, and planned RAG-powered AI assistance.**
 
-> **Current status:** Phase 1 rule-based intake MVP. The repository does not yet contain a functioning LLM agent, RAG pipeline or automated approvals.
+> **Portfolio focus:** Building an enterprise AI operations platform that connects departmental request intake, knowledge retrieval, workflow orchestration, and human-reviewed automation.
 
 ## Business problem
 
